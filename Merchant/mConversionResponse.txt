@@ -1,0 +1,50 @@
+<prep_parameters>
+	<param>
+		<datetime><year>2020</year><syear>20</syear><mon>05</mon><day>12</day><hour>12</hour><min>14</min><sec>35</sec></datetime>
+		<merchantid>9118</merchantid>
+		<header>ADNAN'S SUPERMARKET</header>
+		<footer>Thank you - Please call again.</footer>
+		<market>Thank you for calling</market>
+		<pinreset>N</pinreset>
+		<updatelogo>N</updatelogo>
+		<updatemenu>Y</updatemenu>
+		<replytimeout>60</replytimeout>
+		<currency>SLL</currency>
+		<fract>0</fract>
+		<prefix>Y</prefix>
+		<negnum>2</negnum>
+		<currcode>0694</currcode>
+		<decsym>.</decsym>
+		<thoussep>,</thoussep>
+		<countrycode>0694</countrycode>
+		<endofday>24</endofday>
+		<updateprompts>1589282075</updateprompts>
+		<attendance>N</attendance>
+		<agentaccess>N</agentaccess>
+		<eodtime>
+			<enabled>N</enabled>
+		</eodtime>
+		<conn1>0</conn1>
+		<conn2>0</conn2>
+		<download>
+			<enabled>N</enabled>
+			<downloadconn>0</downloadconn>
+		</download>
+		<disabled>N</disabled>
+	</param>
+	<getkeys>
+		<cipher><no>0</no><key>ead1cb159580ffb8c64b98cf668caa76</key></cipher>
+		<cipher><no>1</no><key>f17976b8272d6a9ddbb27d74ebc483d1</key></cipher>
+		<cipher><no>2</no><key>2ce77720b29a09226eebd7849799e037</key></cipher>
+		<cipher><no>3</no><key>a145d90c62f08db6942d3695e21c5af2</key></cipher>
+		<cipher><no>4</no><key>9b23dccb5a89f787d11a18a9569b8063</key></cipher>
+		<cipher><no>5</no><key>1726950582daf20d29b056110151223c</key></cipher>
+		<cipher><no>6</no><key>6d1f5f17aa15e96b4e614d01a173b792</key></cipher>
+		<cipher><no>7</no><key>3aebc027e237f8a3b43be4a6cc4c4540</key></cipher>
+		<cipher><no>8</no><key>1f6a769ef93da9edcf8331c13b6c3b46</key></cipher>
+		<cipher><no>9</no><key>92f61ad2bf383bba7b5b752229c1b15a</key></cipher>
+		</getkeys>
+	<newkey>
+		<masterkey>361c33a78fd083f0c887803a0eb5b9bf</masterkey>
+		</newkey>
+</prep_parameters>
