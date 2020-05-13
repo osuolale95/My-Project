@@ -185,11 +185,12 @@ int getcipherKeys(ezxml_t root)
 
        return -7;
     }
-    ezxml_t cipherNo = ezxml_child(cipher, "no");
-    ezxml_t cipherKey = ezxml_child(cipher, "key");
 
     for(cipher = ezxml_child(getKey, "cipher"); cipher; cipher = cipher->next)
     {
+        ezxml_t cipherNo = ezxml_child(cipher, "no");
+        ezxml_t cipherKey = ezxml_child(cipher, "key");
+        
         printf("%s: %s\n", cipherNo->txt, cipherKey->txt);
     }
 
